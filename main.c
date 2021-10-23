@@ -3,8 +3,8 @@
 //const int x;
 int main()
 {
-    const int x;
     printf("%d",x);
+lghklhknghlk
     return 0;
 dfjgbjfdgb
 dfkgjndkfjgn
